@@ -1,0 +1,11 @@
+
+{
+    "firstName":"Skylor",
+    "lastName":"Martin",
+    "age":17 ,
+    "picture": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAmCAAAAJDcwYWQ4OWQyLTlkYmQtNDM2Yi05NTE1LTUwYjMzMjQ5NWNiMw.jpg",
+    "nickNames": [
+        {"nick": "Sky"},
+        {"nick": "Skyguy"}
+    ]
+}
